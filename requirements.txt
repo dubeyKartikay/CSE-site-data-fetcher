@@ -1,0 +1,3 @@
+pandas==1.4.3
+requests==p2.27.1
+xmltodict==0.13.0
